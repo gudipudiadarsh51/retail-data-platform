@@ -1,1 +1,1 @@
-# Retail Data Platform
+# retail-data-platform
